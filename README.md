@@ -1,4 +1,4 @@
-# Repositório do CRUD de Séries (c/ Firebase Realtime Database & Java Androi Studio)
+# Repositório do CRUD de Séries (c/ Firebase Realtime Database & Java Android Studio)
 
 <p>Dados salvos no banco:</p>
 <img src="https://github.com/GustavoYM01/af-mobile/assets/69603394/2d5cc771-262a-46a7-be04-40fd8ebd63b8"/>
