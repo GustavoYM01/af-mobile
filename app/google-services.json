@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "380773348278",
+    "project_id": "af-mobile-76a98",
+    "storage_bucket": "af-mobile-76a98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380773348278:android:e24171843eb33dc0808717",
+        "android_client_info": {
+          "package_name": "com.example.af_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUZCPle9fUgQswYUj6UskYt8WlEFh3slw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
