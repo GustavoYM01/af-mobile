@@ -1,3 +1,6 @@
+/*
+ * Link do vídeo: https://youtu.be/2m-VIS2a7rw?si=LQhaxiwBXGbWveKx
+ */
 package com.example.af_mobile;
 
 import android.content.Intent;

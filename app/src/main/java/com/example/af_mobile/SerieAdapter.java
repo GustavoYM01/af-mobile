@@ -132,7 +132,7 @@ public class SerieAdapter extends RecyclerView.Adapter<SerieAdapter.ViewHolder> 
                     && String.valueOf(novoUltimoEp).equals(String.valueOf(ultimoEp))) {
                         Toast.makeText(context, "Dados iguais à um registro já existente!", Toast.LENGTH_LONG).show();
                     } else {
-                        databaseReference.child("SERIES").child(id).setValue(new Serie(id, nomeSerie, diaSemana, plataforma, temporadaAtual, ultimoEp));
+                        databaseReference.child("SERIES").child(id).setValue(new Serie(id, novoNomeSerie, novoDiaSemana, novoPlataforma, novoTemporadaAtual, novoUltimoEp));
                         Toast.makeText(context, "Atualizado com sucesso!", Toast.LENGTH_LONG).show();
                         dialog.dismiss();
                     }
